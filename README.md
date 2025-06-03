@@ -1,8 +1,14 @@
 # 雑多な ipynb 集
 
-<!-- Time-stamp: "2025-06-03T20:29:20Z" -->
+<!-- Time-stamp: "2025-06-03T21:16:44Z" -->
 
-まず Gist で公開したものですが、AI が読みやすいよう HTML 化するため、このレポジトリを作りました。
+まず Gist で公開したものですが、AI が読みやすいよう HTML 化するため、このレポジトリを作りました。自動 HTML 化のワークフローは Gemini 2.5 Flash さん製です。
+
+レポジトリは↓  
+https://github.com/JRF-2018/misc_ipynb
+
+HTML化したものは↓  
+https://jrf-2018.github.io/misc_ipynb/
 
 
 ## ファイル集
@@ -18,6 +24,11 @@
   * [《縁故主義経済シミュレーション その2》](nepotism_economy_2.ipynb) (2025年5月14日ごろ)。
 
   * [《エスカレーター並び方問題のシミュレーション》](escalator_problem.ipynb) (2025年5月21日ごろ)。
+
+
+## Author
+
+JRF ( http://jrf.cocolog-nifty.com/statuses , Twitter (X): @jion_rockford )
 
 
 ## License

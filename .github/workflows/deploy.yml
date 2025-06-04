@@ -37,7 +37,7 @@ jobs:
         # 1. Convert README.md to index.html
         if [ -f "README.md" ]; then
           echo "Converting README.md to index.html..."
-          pandoc README.md -o public/index.html --standalone --metadata title="Repository Home"
+          pandoc README.md -o public/index.html --standalone --metadata title="Repository Home" --from gfm
           echo "Generated public/index.html from README.md"
 
           # IMPORTANT: Rewrite .ipynb links to .html links in index.html

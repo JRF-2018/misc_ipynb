@@ -1,6 +1,6 @@
 # 雑多な ipynb 集
 
-<!-- Time-stamp: "2026-01-08T17:22:18Z" -->
+<!-- Time-stamp: "2026-01-08T17:23:27Z" -->
 
 まず Gist で公開したものですが、AI が読みやすいよう HTML 化するため、このレポジトリを作りました。自動 HTML 化のワークフローは Gemini 2.5 Flash さん製です。
 
@@ -24,6 +24,8 @@ https://jrf-2018.github.io/misc_ipynb/
   * [《縁故主義経済シミュレーション その2》](nepotism_economy_2.ipynb) (2025年5月14日ごろ)。
 
   * [《エスカレーター並び方問題のシミュレーション》](escalator_problem.ipynb) (2025年5月21日ごろ)。
+
+  * [《ダウンズの合理的選択理論への反論》](voting_simulation.ipynb) (2025年7月21日ごろ)。
 
   * [《必需品と贅沢品のマクロ経済シミュレーション》](economic_simulation_gj_6.ipynb) (2026年1月9日ごろ)。
 

@@ -1,6 +1,6 @@
 # 雑多な ipynb 集
 
-<!-- Time-stamp: "2026-01-08T17:23:27Z" -->
+<!-- Time-stamp: "2026-04-08T14:11:08Z" -->
 
 まず Gist で公開したものですが、AI が読みやすいよう HTML 化するため、このレポジトリを作りました。自動 HTML 化のワークフローは Gemini 2.5 Flash さん製です。
 
@@ -29,6 +29,7 @@ https://jrf-2018.github.io/misc_ipynb/
 
   * [《必需品と贅沢品のマクロ経済シミュレーション》](economic_simulation_gj_6.ipynb) (2026年1月9日ごろ)。
 
+  * [《必需品と贅沢品の宇宙的独立関係を危機時と平時の学習から再考する》](luxury_vs_necessity_simulation_202604.ipynb) (2026年4月8日ごろ)。
 
 ## Author
 

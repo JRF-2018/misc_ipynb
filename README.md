@@ -1,8 +1,8 @@
 # 雑多な ipynb 集
 
-<!-- Time-stamp: "2026-07-25T19:36:25Z" -->
+<!-- Time-stamp: "2026-07-25T19:39:24Z" -->
 
-まず Gist で公開したものですが、AI が読みやすいよう HTML 化するため、このレポジトリを作りました。自動 HTML 化のワークフローは Gemini 2.5 Flash さん製です。
+まず Gist または Colab で公開したものですが、AI さん達が読みやすいよう HTML 化するため、このレポジトリを作りました。自動 HTML 化のワークフローは Gemini 2.5 Flash さん製です。
 
 レポジトリは↓  
 https://github.com/JRF-2018/misc_ipynb

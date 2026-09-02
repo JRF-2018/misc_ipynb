@@ -1,6 +1,6 @@
 # 雑多な ipynb 集
 
-<!-- Time-stamp: "2026-07-25T19:39:24Z" -->
+<!-- Time-stamp: "2026-09-02T12:44:42Z" -->
 
 まず Gist または Colab で公開したものですが、AI さん達が読みやすいよう HTML 化するため、このレポジトリを作りました。自動 HTML 化のワークフローは Gemini 2.5 Flash さん製です。
 
@@ -32,6 +32,8 @@ https://jrf-2018.github.io/misc_ipynb/
   * [《必需品と贅沢品の宇宙的独立関係を危機時と平時の学習から再考する》](luxury_vs_necessity_simulation_202604.ipynb) (2026年4月8日ごろ)。
 
   * [《性淘汰による群淘汰のシミュレーション by Gemini》](group_selection_by_sexual_selection.ipynb) (2026年7月26日ごろ)。
+
+  * [《AI社会における再分配問題 - アスモグルらの議論から》](expansion_of_acemoglu_model.ipynb) (2026年9月2日ごろ)。
 
 
 ## Author

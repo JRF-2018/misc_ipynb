@@ -1,6 +1,6 @@
 # 雑多な ipynb 集
 
-<!-- Time-stamp: "2026-09-06T00:23:33Z" -->
+<!-- Time-stamp: "2026-09-06T12:37:51Z" -->
 
 まず Gist または Colab で公開したものですが、AI さん達が読みやすいよう HTML 化するため、このレポジトリを作りました。自動 HTML 化のワークフローは Gemini 2.5 Flash さん製です。
 
@@ -37,7 +37,7 @@ https://jrf-2018.github.io/misc_ipynb/
 
   * [《「注意労働」論とロボット軍の民主主義モデル》](expansion_of_acemoglu_model_2.ipynb) (2026年9月6日ごろ)。
 
-## Author
+## Author (文責)
 
 JRF ( http://jrf.cocolog-nifty.com/statuses , Twitter (X): @jion_rockford )
 

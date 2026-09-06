@@ -1,6 +1,6 @@
 # 雑多な ipynb 集
 
-<!-- Time-stamp: "2026-09-02T12:44:42Z" -->
+<!-- Time-stamp: "2026-09-06T00:23:33Z" -->
 
 まず Gist または Colab で公開したものですが、AI さん達が読みやすいよう HTML 化するため、このレポジトリを作りました。自動 HTML 化のワークフローは Gemini 2.5 Flash さん製です。
 
@@ -35,6 +35,7 @@ https://jrf-2018.github.io/misc_ipynb/
 
   * [《AI社会における再分配問題 - アスモグルらの議論から》](expansion_of_acemoglu_model.ipynb) (2026年9月2日ごろ)。
 
+  * [《「注意労働」論とロボット軍の民主主義モデル》](expansion_of_acemoglu_model_2.ipynb) (2026年9月6日ごろ)。
 
 ## Author
 
@@ -45,7 +46,7 @@ JRF ( http://jrf.cocolog-nifty.com/statuses , Twitter (X): @jion_rockford )
 
 基本的に「簡単なプログラムなので Public Domain でいいです。ただし、それだと使いにくいという場合は MIT License で。」でよいのですが、私が作った部分についてはそれでよいとしても、問題は、AI さんが作った部分をどう評価するか…です。
 
-個々のファイルに書いてあるようにかなり AI さんの手が入っています。
+個々のファイルに書いてあるようにかなり AI さん達の手が入っています。
 
 ----
 (This document is mainly written in Japanese/UTF8.)

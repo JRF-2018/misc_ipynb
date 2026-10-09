@@ -1,6 +1,6 @@
 # 雑多な ipynb 集
 
-<!-- Time-stamp: "2026-10-09T07:59:55Z" -->
+<!-- Time-stamp: "2026-10-09T08:07:01Z" -->
 
 まず Gist または Colab で公開したものですが、AI さん達が読みやすいよう HTML 化するため、このレポジトリを作りました。自動 HTML 化のワークフローは Gemini 2.5 Flash さん製です。
 
@@ -37,7 +37,7 @@ https://jrf-2018.github.io/misc_ipynb/
 
   * [《「注意労働」論とロボット軍の民主主義モデル》](expansion_of_acemoglu_model_2.ipynb) (2026年9月6日ごろ)。
 
-  * [《リカードの比較優位論をめぐって》](ricardo_comparative_advantage.ipynb) (2026年10月9日ごろ)。Claude Opus 5.5 さんによるレポート。なお、元となった Gemini 3.6 Flash さんとの会話は [gemini_conversation-20261009.md](gemini_conversation-20261009.md)に置いている。
+  * [《リカードの比較優位論をめぐって》](ricardo_comparative_advantage.ipynb) (2026年10月9日ごろ)。Claude Opus 5.5 さんによるレポート。なお、元となった Gemini 3.6 Flash さんとの会話は [gemini_conversation-20261009.md](https://github.com/JRF-2018/misc_ipynb/blob/master/gemini_conversation-20261009.md)に置いている。
 
 
 ## Author (文責)
